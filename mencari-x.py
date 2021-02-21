@@ -1,3 +1,6 @@
+# Sangat boros line :)
+# Btw ini source code kubuat saat belum mahir for range
+
 import time
 def mencari_x():
   print("\nFormat persamaan: ")
